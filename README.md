@@ -24,9 +24,13 @@ git commit -m "Titre du commit"
 git push origin main
 ```
 
-## Création d'une brache
+## Création d'une branche
 ```bash
 git checkout -b NOM_BRANCHE
 ```
+
+Pour les bonnes pratique, on va intégrer la notion de revue de code. Pour cela, on va
+créer une branche, faire des modifications, les envoyer sur le dépôt, puis créer une
+pull request pour demander une revue de code.
 
 
